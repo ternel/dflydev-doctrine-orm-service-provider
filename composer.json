@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.3.3",
         "pimple/pimple": "1.*@dev",
-        "doctrine/orm": "~2.3"
+        "doctrine/orm": "~2.4"
     },
     "require-dev": {
         "cilex/cilex": "1.*@dev",
